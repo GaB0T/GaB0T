@@ -6,9 +6,9 @@
 - ♻️ I am looking to collaborate in sustainability.
 - 📦 I make custom products.
 - 📫 How to reach me gabot3d@gmail.com
-- 📸 Instagram @gabot3d
-- 💻 cults3d.com gabot3d
-- 💰 https://paypal.me/gabot3d?country.x=AR&locale.x=es_XC
+- 📸 Instagram @gabot3d https://www.instagram.com/gabot3d/
+- 💻 Cults3D gabot3d https://cults3d.com/es/usuarios/gabot3d/modelos-3d
+- 💰 Paypal https://paypal.me/gabot3d?country.x=AR&locale.x=es_XC
 
 <!---
 GaB0T/GaB0T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
